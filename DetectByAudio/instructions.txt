@@ -1,0 +1,21 @@
+conda create -n DetectObejctByAudio python=3.8
+conda activate DetectObejctByAudio
+
+pip install opencv-python
+pip install opencv-contrib-python
+pip install pandas
+pip install sounddevice
+pip install scipy
+pip install soundfile  
+pip install SpeechRecognition
+
+# Download Yolo4-tiny model 
+# cfg file 
+# https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov4-tiny.cfg
+
+# weights file 
+#https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4-tiny.weights
+
+# classes.txt is in the my repo . it is based on COCO dataset 
+
+
