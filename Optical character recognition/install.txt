@@ -1,0 +1,12 @@
+conda create -n chrRecog-39 python=3.9
+conda activate chrRecog-39
+
+# What is my Cuda version
+nvcc --version
+
+# https://pytorch.org/
+conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+
+pip install opencv-python==4.5.4.60
+pip install easyocr==1.6.2
+pip install matplotlib
