@@ -1,7 +1,7 @@
 # Building a Self-Driving Car in Atari 2600 Grand Prix Game – Full tutorial 
 
 <p align="center">
-  <img width="800" src="Atari Grandprix full tutorial.png" "Example of object detection.">
+  <img width="800" src="Atari Grandprix full tutorial.png" "image">
 </p>
 
 ##
@@ -33,7 +33,7 @@ Perfect course for every computer vision enthusiastic
 Before we continue , I actually recommend this [book](https://amzn.to/3STWZ2N) for deep learning based on Tensorflow and Keras : 
 
 
-<br/><br/> 
+
 </font>
 
 # Connect
