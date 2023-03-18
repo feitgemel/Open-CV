@@ -16,7 +16,7 @@ This tutorial is perfect for anyone interested in computer vision, retro game de
 
 You can find the link for the [tutorial](https://youtu.be/e2EpH9SDSMs) here. 
 
-You can find more Tensorflow projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4YaA2ZvUlF54g1U0J2BXkT9)
+You can find more Atari projects and tutorials in this [playlist](https://youtube.com/playlist?list=PLdkryDe59y4YaA2ZvUlF54g1U0J2BXkT9)
 
 
 Enjoy
