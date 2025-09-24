@@ -13,7 +13,8 @@ In this video, we'll show you how to create a voice-controlled object detection 
 Whether you're interested in learning about object detection, speech recognition, or just want to build a cool project that combines the two, this tutorial is for you. You'll learn about YOLO, how to set up the necessary libraries, how to train your model, and how to use voice commands to detect specific objects in real-time. By the end of this tutorial, you'll have a fully functional voice-controlled object detection system that you can use to impress your friends or even integrate into your own projects.
 
 <br/><br/> 
-You can find the link for the [tutorial](https://youtu.be/fd1msoIpM5Q) here. 
+You can find the link for the [tutorial](https://eranfeit.net/how-to-build-a-real-time-object-detection-with-your-own-voice/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/fd1msoIpM5Q) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://www.youtube.com/watch?v=fd1msoIpM5Q&list=PLdkryDe59y4bxVvpexwR6PMTHH6_vFXjA)
 

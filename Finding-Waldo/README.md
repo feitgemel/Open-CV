@@ -16,7 +16,8 @@ We'll take an image of Wally and use it as a template to search for matches in l
 <br/><br/> 
 This involves using OpenCV functions and learning how to look for a specific image area based on another image. 
 <br/><br/> 
-You can find the link for the [tutorial](https://youtu.be/_iGmwb5petU) here. 
+You can find the link for the [tutorial](https://eranfeit.net/learn-how-to-find-wally-in-images-using-python-and-opencv/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/_iGmwb5petU) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://www.youtube.com/watch?v=fd1msoIpM5Q&list=PLdkryDe59y4bxVvpexwR6PMTHH6_vFXjA)
 

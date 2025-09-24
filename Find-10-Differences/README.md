@@ -17,7 +17,8 @@ We'll use Canny, Dilate and Findcontours to capture and mark those differences, 
 This tutorial is ideal for intermediate to advanced users of OpenCV and Python who want to take their image processing and computer vision skills to the next level.ed!
 
 <br/><br/> 
-You can find the link for the [tutorial](https://youtu.be/03tY_OF0_Jg) here. 
+You can find the link for the [tutorial](https://eranfeit.net/advanced-python-and-opencv-tutorial-how-to-find-differences-in-similar-images/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/03tY_OF0_Jg) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://www.youtube.com/watch?v=fd1msoIpM5Q&list=PLdkryDe59y4bxVvpexwR6PMTHH6_vFXjA)
 

@@ -12,8 +12,10 @@ In this video tutorial, you'll learn how to perform image segmentation using Pyt
 <br/><br/> 
 Next, you'll use OpenCV's findContours() function to detect the contours in the binary image. Finally, you'll merge the detected contours with the original color image to produce an image where the segmented areas are shown in the original color, while the rest of the areas are shown as black. By the end of this tutorial, you'll have a solid understanding of how to perform image segmentation with Python OpenCV and contour detection, which can be applied to a wide range of computer vision tasks.
 
-<br/><br/> 
-You can find the link for the [tutorial](https://youtu.be/f6VgWTD_7kc) here. 
+<br/><br/>  
+
+You can find the link for the [tutorial](https://eranfeit.net/image-segmentation-in-opencv-with-python-and-contours/) here. 
+You can find the link for the [Video tutorial](https://youtu.be/f6VgWTD_7kc) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://www.youtube.com/watch?v=fd1msoIpM5Q&list=PLdkryDe59y4bxVvpexwR6PMTHH6_vFXjA)
 

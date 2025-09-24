@@ -13,7 +13,9 @@ In this tutorial, you will learn how to perform image segmentation using Python,
 In this video, you will first learn how to load an image into Python and preprocess it using OpenCV to convert it to a suitable format for input to the K-means clustering algorithm. You will then apply the K-means algorithm to the preprocessed image and specify the desired number of clusters. Finally, you will demonstrate how to obtain the image segmentation by assigning each pixel in the image to its corresponding cluster, and you will show how the segmentation changes when you vary the number of clusters.
 
 <br/><br/> 
-You can find the link for the [tutorial](https://youtu.be/a2Kti9UGtrU) here. 
+
+You can find the link for the [tutorial](https://eranfeit.net/python-image-segmentation-made-easy-with-opencv-and-k-means-algorithm/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/a2Kti9UGtrU) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://www.youtube.com/watch?v=fd1msoIpM5Q&list=PLdkryDe59y4bxVvpexwR6PMTHH6_vFXjA)
 

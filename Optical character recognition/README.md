@@ -15,7 +15,8 @@ We'll start by loading an image with printed text and displaying it in Python. T
 By the end of this tutorial, you'll have a solid understanding of how to use Python OpenCV and EasyOCR for text detection and extraction, and you'll be able to apply these skills to your own projects. Whether you're interested in building an OCR system, automating text extraction tasks, or just exploring the possibilities of computer vision, this video is a great place to start.
 
 <br/><br/> 
-You can find the link for the [tutorial](https://youtu.be/DycbnT_pWKw) here. 
+You can find the link for the [tutorial](https://eranfeit.net/text-detection-with-python-and-opencv-ocr-using-easyocr-computer-vision-tutorial/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/DycbnT_pWKw) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://www.youtube.com/watch?v=fd1msoIpM5Q&list=PLdkryDe59y4bxVvpexwR6PMTHH6_vFXjA)
 

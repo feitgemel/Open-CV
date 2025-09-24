@@ -15,7 +15,8 @@ We'll start by converting the image to grayscale and applying a blur to help fil
 This tutorial is perfect for beginners looking to learn more about image processing with Python and OpenCV. By the end of this video, you'll have a solid understanding of how to detect and count coins in an image and apply these techniques to your own projects. So grab your favorite beverage, sit back, and let's get started!
 
 <br/><br/> 
-You can find the link for the [tutorial](https://youtu.be/_Coth4YESzk) here. 
+You can find the link for the [tutorial](https://eranfeit.net/easy-coin-detection-with-python-and-opencv/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/_Coth4YESzk) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://www.youtube.com/watch?v=fd1msoIpM5Q&list=PLdkryDe59y4bxVvpexwR6PMTHH6_vFXjA)
 

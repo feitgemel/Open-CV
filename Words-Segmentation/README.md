@@ -14,8 +14,10 @@ We'll start by converting the image to grayscale and applying thresholding to en
 <br/><br/> 
 Whether you're working on a digital library project or just want to extract text from scanned documents, this tutorial will give you the tools you need to succeed. So join us as we explore the exciting world of word segmentation with Python and OpenCV!
 
-<br/><br/> 
-You can find the link for the [tutorial](https://youtu.be/c61w6H8pdzs) here. 
+<br/><br/>  
+You can find the link for the [tutorial](https://eranfeit.net/extracting-words-from-scanned-books-a-step-by-step-tutorial-with-python-and-opencv/) here.  
+
+You can find the link for the [Video tutorial](https://youtu.be/c61w6H8pdzs) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://www.youtube.com/watch?v=fd1msoIpM5Q&list=PLdkryDe59y4bxVvpexwR6PMTHH6_vFXjA)
 

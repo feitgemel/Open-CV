@@ -13,7 +13,9 @@ In this tutorial, we'll show you how to detect moving objects using Python and O
 We'll start by preprocessing the video frames to extract only the moving pixels, and then use contours to detect the cars in the frame. We'll also show you how to mark the cars with bounding boxes and labels, so you can easily see which cars are moving and where they are in the video
 
 <br/><br/> 
-You can find the link for the [tutorial](https://youtu.be/YSLVAxgclCo) here. 
+
+You can find the link for the [tutorial](https://eranfeit.net/how-to-detect-moving-objects-in-video-using-opencv-and-python/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/YSLVAxgclCo) here. 
 
 You can find more cool Tensorflow projects and tutorials in this [playlist](https://www.youtube.com/watch?v=fd1msoIpM5Q&list=PLdkryDe59y4bxVvpexwR6PMTHH6_vFXjA)
 
